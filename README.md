@@ -1,7 +1,7 @@
 
 # Crypto Tokens List
 
-A large collection of crypto token metadata collected from different trusted source such as CoinGecko, Trust Wallet, etc
+A large collection of crypto token metadata collected from CoinGecko
 
 
 ## Chain 
